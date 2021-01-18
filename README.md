@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- Stack: HTML5, SASS
+ - Fully responsive layout was made by Css Flexbox (mobiles, tablets, laptops)
+ - Design of the landing you can find [here](https://www.figma.com/file/i8XiqSgs44QEVPHuMbkNO2/museum-prototype?node-id=323%3A1957)
+ - Click the link to see [DEMO](https://YuriiFitsyk.github.io/NAMU)
