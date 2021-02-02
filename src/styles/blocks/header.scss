@@ -3,18 +3,8 @@
   color: $white-color;
 
   &__container {
-    width: 1280px;
-    margin: 0 auto;
     position: relative;
     overflow: hidden;
-
-    @include onTablet {
-      width: 768px;
-    }
-
-    @include onMobile {
-      width: 320px;
-    }
   }
 
   &__menu {
